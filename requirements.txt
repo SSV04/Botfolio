@@ -1,0 +1,27 @@
+# Botfolio - AI CLI Portfolio - Dependencies
+
+# Core CLI functionality
+colorama>=0.4.6
+pyjokes>=0.6.0
+
+# Optional AI integration (comment out if not needed)
+transformers>=4.21.0
+torch>=1.12.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# File handling and utilities
+pathlib2>=2.3.7
+argparse>=1.4.0
+
+# Optional web scraping (if extending functionality)
+# requests>=2.28.0
+# beautifulsoup4>=4.11.0
+
+# Optional database support (if adding persistence)
+# sqlite3 (built-in with Python)
+
+# Documentation
+# sphinx>=5.0.0  # For generating docs

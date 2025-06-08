@@ -1,0 +1,126 @@
+{
+  "name": "SHIVSHAKTI VASHIST",
+  "title": "Computer Science & Engineering Student | AI Enthusiast",
+  "school": "Kalinga Institute of Industrial Technology (KIIT)",
+  "degree": "Computer Science and Engineering",
+  "graduation_year": "2026",
+  "location": "Bhubaneswar, India",
+  "bio": "Passionate AI engineer with expertise in machine learning, web development, and creating innovative solutions. Love building projects that solve real-world problems!",
+
+  "skills": [
+    "C",
+    "Java",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Data Structures and Algorithms (DSA)",
+    "Cybersecurity",
+    "Artificial Intelligence",
+    "AutoCAD",
+    "Scrum and Agile methodologies",
+    "Project Management",
+    "Problem Solving",
+    "Leadership and Team Management",
+    "Communication and Presentation",
+    "Content Writing",
+    "Research Skills",
+    "Attention to Detail"
+  ],
+
+  "projects": [
+    {
+      "name": "Botfolio CLI Assistant",
+      "description": "Interactive command-line portfolio bot with AI integration",
+      "tech": ["Python", "Transformers", "CLI"],
+      "github": "https://github.com/SSV04/Botfolio"
+    },
+    {
+      "name": "Prodigy",
+      "description": "🚀 Task Solutions Repo: Code snippets, algorithms, and creative hacks. 💡",
+      "tech": ["Python"],
+      "github": "https://github.com/SSV04/PRODIGY"
+    },
+    {
+      "name": "ML Image Classifier",
+      "description": "Deep learning model for image recognition with 95% accuracy",
+      "tech": ["Python", "TensorFlow", "CNN", "OpenCV"],
+      "github": "https://github.com/SSV04/image-classifier"
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Content Team Lead",
+      "company": "Youth Red Cross, KIIT",
+      "duration": "Mar 2024 - Present",
+      "description": "Managed content creation team, optimized content strategy, and collaborated across departments to boost engagement."
+    },
+    {
+      "role": "Cybersecurity Intern",
+      "company": "Prodigy InfoTech",
+      "duration": "Aug 2024 - Aug 2024",
+      "description": "Documented security analyses, proposed encryption methods, and simulated real-world business security tools."
+    },
+    {
+      "role": "AI Mentorship Participant",
+      "company": "Teachnook,",
+      "duration": "May 2024 - Jun 2024",
+      "description": "Developed a sentiment-analysis chatbot and gained practical experience in AI fundamentals."
+    }
+  ],
+
+  "certifications": [
+    "Artificial Intelligence - Teachnook & Cognizance IIT Roorkee (2024)",
+    "Project Management Fundamentals - IBM (2023)",
+    "Explore Emerging Tech - IBM (2023)",
+    "Web Development Fundamentals - IBM (2023)",
+    "Prompt Design in Vertex AI - Google (2023)",
+    "Scrum Fundamentals Certified (SFC) - SCRUMstudy (2023)",
+    "Cybersecurity - Prodigy InfoTech (2023)",
+    "Corporate Governance - Coursera (2024)",
+    "Business for Good: Fundamentals of Corporate Responsibility - London Business School (2024)",
+    "Ethical Decision Making for Success in Tech - University of Colorado Boulder (2024)"
+  ],
+
+  "contact": {
+    "email": "ssvashist1104@gmail.com",
+    "github": "https://github.com/SSV04",
+    "linkedin": "https://www.linkedin.com/in/shivshakti-vashist-11042k23/"
+  },
+
+  "interests": [
+    "Artificial Intelligence",
+    "Web Development",
+    "Open Source Contributions",
+    "Machine Learning",
+    "Competitive Programming",
+    "Tech Blogging"
+  ],
+
+  "achievements": [
+    "Managed Youth Red Cross content team effectively",
+    "Completed multiple certified courses in AI and project management",
+    "Developed AI-based chatbot and security tools",
+    "Active contributor to personal and open-source projects"
+  ],
+
+  "languages": [
+    "English (Professional Working Proficiency)",
+    "Hindi (Native or Bilingual Proficiency)"
+  ],
+
+  "social_links": {
+    "blog": "https://ssvdev.medium.com",
+    "youtube": "https://youtube.com/@ssvdev",
+    "instagram": "https://instagram.com/ssv.codes"
+  },
+
+  "fun_facts": [
+    "Can code for hours straight with just coffee ☕",
+    "Dreamed to Solve 500+ coding problems on LeetCode",
+    "Built my first website at age 16; SIKE! It was a simple HTML page",
+    "Love explaining complex concepts in simple terms",
+    "Always excited about learning new technologies!"
+  ]
+}
+
