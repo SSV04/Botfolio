@@ -167,6 +167,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**⭐ If you found this helpful, please give it a star on GitHub! ⭐**
-
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [SSV04](https://github.com/SSV04)
